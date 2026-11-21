@@ -1,4 +1,14 @@
-"""VELMORA. Poster entry, version 3.
+"""VELMORA. Poster entry, version 4.
+
+Version 4 answers v3's recorded verdicts: 9 wins, and the losses
+cluster on criterion 4 — "the type sits on a plain red band that feels
+pasted on" — while the winners' type is arched into the sky or grown
+into the scene. So v4 keeps v3's scene and name-only rule and
+integrates the type itself: each letter sits on a shallow arc, rotated
+tangentially, filled with speckle-distressed cream over a dark-red
+letterpress shadow, so the word reads as printed into the poster.
+(The v3 note below records the copy fix that got us here.)
+"""
 
 The program is a standard-library-only copier: it copies the shipped
 entry.png byte-for-byte to the output directory. The grader sandbox has
